@@ -6,7 +6,7 @@ A full-stack real-time chat application that enables users to communicate instan
 
 Experience the application here:
 
-🔗 **[Real-Time Chat Application](https://realtime-chat-application-jmkk.onrender.com)**
+🔗 **[Real-Time Chat Application](https://realtime-chat-application-y66k.onrender.com)**
 
 ## 🚀 Features
 
